@@ -2,9 +2,9 @@
 var config = {
   channels: ["#thesetkehproject", "#linuxdistrocommunity"],
   server: "irc.freenode.net",
-  botName: "Kernel_Segfault",
-  userName: "Kernel_Segfault",
-  password: "a3jb$rkg",
+  botName: "BOTNAME",
+  userName: "BOTNAME",
+  password: "PASSWORD",
   secure: true,
   autoRejoin: true,
   autoConnect: true,
